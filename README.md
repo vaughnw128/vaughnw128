@@ -4,6 +4,6 @@ My name is Vaughn Woerpel, and I'm a third year Computing Security student at Ro
 
 Feel free to check out my repositories, but they're mostly dumb side projects.
 
- [ <img src="[https://tryhackme-badges.s3.amazonaws.com/Apicius.png](https://tryhackme-badges.s3.amazonaws.com/Apicius.png?2)" alt="TryHackMe">](https://tryhackme-badges.s3.amazonaws.com/Apicius.png?2)
+![Apicius](https://user-images.githubusercontent.com/17153535/205984698-b35e16b9-0012-4689-8acd-120d93fdd28d.png)
 
 Check out my site: https://vww.sbcord.com
