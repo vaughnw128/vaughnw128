@@ -1,6 +1,6 @@
 Hello! 
 
-My name is Vaughn Woerpel. I'm an Application Security Enginner at New Relic. Student/Alum of the Rochester Institute of Technology.
+My name is Vaughn Woerpel. I'm a Security Enginner at New Relic. Student/Alum of the Rochester Institute of Technology.
 
 Feel free to check out my repositories, but they're mostly dumb side projects.
 
