@@ -5,3 +5,30 @@ Hello and welcome to my profile!
 I'm Vaughn. Nice to meet you! I'm a recent graduate(?) of the Rochester Institute of Technology, and I'm currently a Security Engineer at New Relic. Most of the repositories on my profile are side projects written in Python that I did for fun in my free time, with a few red team tools mixed in as well. I primarily program in Python, but I'm working on expanding my repertoire of languages.
 
 To contact me either ping me on Discord `@wauhn` or send me an email at `vaughnwoerpel@gmail.com`. I'm open to chatting about programming, homelabbing, cooking, anime, manga, you name it :)
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
