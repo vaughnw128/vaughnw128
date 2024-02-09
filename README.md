@@ -5,7 +5,38 @@ Hello and welcome to my profile!
 I'm Vaughn. Nice to meet you! I'm a recent graduate(?) of the Rochester Institute of Technology, and I'm currently a Security Engineer at New Relic. Most of the repositories on my profile are side projects written in Python that I did for fun in my free time, with a few red team tools mixed in as well. I primarily program in Python, but I'm working on expanding my repertoire of languages.
 
 To contact me either ping me on Discord `@wauhn` or send me an email at `vaughnwoerpel@gmail.com`. I'm open to chatting about programming, homelabbing, cooking, anime, manga, you name it :)
-
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 1.0 0.0 0.0
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+      vertex 0.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.577 0.577 0.577
+    outer loop
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+endsolid
+```
 ```geojson
 {
   "type": "FeatureCollection",
