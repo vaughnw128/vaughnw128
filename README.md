@@ -6,4 +6,4 @@ I'm Vaughn. Nice to meet you! I'm a recent graduate(?) of the Rochester Institut
 
 To contact me either ping me on Discord `@wauhn` or send me an email at `vaughnwoerpel@gmail.com`. I'm open to chatting about programming, homelabbing, cooking, anime, manga, you name it :)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaughnw128&layout=compact&hide=nesC)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaughnw128&layout=compact&exclude_repo=dronegauntlet,pi-in-the-sky19&hide=powershell)
