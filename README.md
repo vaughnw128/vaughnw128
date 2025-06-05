@@ -2,7 +2,7 @@
 
 Hello and welcome to my profile!
 
-I'm Vaughn. Nice to meet you! I'm a recent graduate of the Rochester Institute of Technology, and I'm currently a Security Engineer at New Relic. Most of the repositories on my profile are side projects written in Python that I did for fun in my free time, with a few red team tools mixed in as well. I primarily program in Python, but I'm working on expanding into Rust and Go.
+I'm Vaughn. Nice to meet you! I'm a graduate of the Rochester Institute of Technology, and I'm currently a Senior Security Engineer at ???. Most of the repositories on my profile are side projects written in Python that I did for fun in my free time, with a few red team tools mixed in as well. I primarily program in Python and Rust, but I'm working on expanding into  Go.
 
 To contact me either ping me on Discord `@wauhn` or send me an email at `vaughnwoerpel@gmail.com`. I'm open to chatting about programming, homelabbing, cooking, anime, manga, you name it :)
 
